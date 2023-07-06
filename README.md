@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>To-do List</b></h3>
-
+  ![Sticky Notes](./src/assets/sticky-notes.png)
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,16 +28,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-do List <a name="about-project"></a>
+# 📖 Sticky Notes <a name="about-project"></a>
 
-**To-do List:** This is a simple web-based TODO list application built using HTML, CSS, and JavaScript. The application allows users to create, read, update, and delete tasks from their to-do list. Users can mark tasks as completed, sort them by priority, and search for specific tasks. It uses local storage to store the user's tasks, so they don't have to worry about losing their data. This project is a great starting point for those who want to learn web development or want to build their own task management application.
+**Sticky Notes:** This is a simple web-based Note list application built using React.js. The application allows users to create, read, update, and delete notes from their Sticky Notes. Users can search for specific notes. It uses local storage to store the user's notes, so they don't have to worry about losing their data. This project is a great starting point for those who want to learn web development or want to build their own note management application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
   <ul>
-    <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
+    <li>React</li>
   </ul>
 
 <!-- Features -->
@@ -55,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Project Demo](https://nasirkhan294.github.io/to-do-list/)
+- [Live Project Demo]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
