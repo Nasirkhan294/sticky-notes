@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  ![Sticky Notes](./src/assets/sticky-notes.png)
-</div>
+![Sticky Notes](./src/assets/sticky-notes.png)
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -69,7 +68,7 @@ In order to run this project you need:
 
 ```
    ssh code:
-   git@github.com:Nasirkhan294/to-do-list.git
+   git@github.com:Nasirkhan294/sticky-notes.git
 ```
 
 ### Setup
@@ -78,7 +77,7 @@ Clone this repository to your desired folder:
 
 ```
   cd desired-folder
-  git clone git@github.com:Nasirkhan294/to-do-list.git
+  git clone git@github.com:Nasirkhan294/sticky-notes.git
 ```
 ### Install
 
