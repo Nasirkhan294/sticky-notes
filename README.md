@@ -16,7 +16,6 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -89,25 +88,6 @@ To run the project, execute the following command:
 
 - Run ` npm start `
 
-### Run tests
-
-To run tests, run the following command:
-
-
-- To Test CSS linter errors 
-```
-npx stylelint "**/*.{css,scss}
-```
-
-- To Test jsx linter errors  
-```
-npx eslint "**/*.{js,jsx}
-```
-
-- To Run Test files 
-```
-npm test
-```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
