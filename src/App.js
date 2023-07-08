@@ -15,7 +15,7 @@ class App extends Component {
         id: 1,
         title: "sleep",
         description: "eight hours",
-        doesMatchSearch: true
+        doesMatchSearch: false
       },
       {
         id: 2,
