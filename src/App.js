@@ -72,6 +72,19 @@ class App extends Component {
     this.setState({ notes: updatedNotes })
   }
 
+  componentDidUpdate() {
+    const stringifiedNotes = JSON.stringify(this.state.notes);
+    localStorage.setItem('savedNotes', stringifiedNotes);
+  }
+
+  componentDidMount() {
+    const stringifiedNotes = localStorage.getItem('savedNotes');
+    if (stringifiedNotes) {
+      const savedNotes = JSON.parse(stringifiedNotes);
+      this.setState({ notes: savedNotes })
+    }
+  }
+
   render() {
     return (
       <div>
